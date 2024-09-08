@@ -63,7 +63,3 @@ A Python-based traffic monitoring system using YOLO object detection on RTSP str
 - Consider training a custom YOLO model with your own dataset if necessary.
 - Develop an alert system for abnormal events (e.g., too many vehicles).
 - Implement remote access and monitoring to check results from anywhere.
-
----
-
-Would you like help with writing any of the code or setting up specific parts?
